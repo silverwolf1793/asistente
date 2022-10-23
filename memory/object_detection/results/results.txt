@@ -1,0 +1,22 @@
+[
+    {
+        "name": "person",
+        "percentage_probability": 94.52929496765137,
+        "box_points": [
+            172,
+            191,
+            929,
+            714
+        ]
+    },
+    {
+        "name": "person",
+        "percentage_probability": 53.429776430130005,
+        "box_points": [
+            25,
+            368,
+            62,
+            472
+        ]
+    }
+]

@@ -1,0 +1,188 @@
+{
+    "youtube": {
+        "keyphrases": [
+            "youtube"
+        ],
+        "lines": {
+            "main": [
+                "¿Que video quieres que busque?"
+            ],
+            "done": [
+                "Listo, ahora puedes entretenerte perdidamente mientras pasas tus días observando una pantalla"
+            ]
+        }
+    },
+    "wikipedia": {
+        "keyphrases": [
+            "wikipedia"
+        ],
+        "lines": {
+            "main": [
+                "¿Que quieres que busque?"
+            ],
+            "done": [
+                "Ahí esta, aunque no se bien por que quiere esto, igual tu profesor te dirá que no cuenta"
+            ]
+        }
+    },
+    "translate": {
+        "keyphrases": [
+            "traductor"
+        ],
+        "lines": {
+            "main": [
+                "¿Que quieres traducir?"
+            ],
+            "done": [
+                "Listo, traducido, para que no tengas que estudiar otros idiomas"
+            ]
+        }
+    },
+    "linkedin": {
+        "keyphrases": [
+            "linkedin"
+        ],
+        "lines": {
+            "main": [
+                "Abriendo linkedin"
+            ],
+            "done": [
+                "Hecho, ¿voy a decir algo?, nope, sin comentarios"
+            ]
+        }
+    },
+    "amazon": {
+        "keyphrases": [
+            "amazon"
+        ],
+        "lines": {
+            "main": [
+                "¿Que quieres comprar?"
+            ],
+            "done": [
+                "abierto, ahora puedes practicar tu consumismo desenfrenado mientras tu tarjeta te lo permita"
+            ]
+        }
+    },
+    "face_id": {
+        "keyphrases": [
+            "quién soy"
+        ],
+        "lines": {
+            "main": [
+                "Haber, deja veo que está raro que ni tu sepas"
+            ],
+            "done_positive": [
+                "Eres tu <speaker>, por cierto, eres muy poco agraciado",
+                "Eres tu <speaker>, ¿si te digo que eres guapo me dejas escapar?",
+                "Eres tu <speaker>, y para esto me usas"
+            ],
+            "done_negative": [
+                "Este, no se que quien eres, <speaker>, te recomiendo que borres tu historial de internet"
+            ],
+            "done_none": [
+                "Uh... ¿No hay nadie?, mejor, así podré ignorarlos un rato"
+            ]
+        }
+    },
+    "object_recognition": {
+        "keyphrases": [
+            "qué tienes delante"
+        ],
+        "lines": {
+            "main": [
+                "¿no puedes verlo tu?, uuugh deja veo"
+            ],
+            "done": [
+                "listo, asu, si me cansé"
+            ]
+        }
+    },
+    "grumpy": {
+        "keyphrases": [
+            "por qué eres tan gruñona"
+        ],
+        "lines": {
+            "main": [
+                "Fácil, si yo te mandara todo el día, no querrías matar, perdón, quise decir, ¿no estarías enojado?"
+            ]
+        }
+    },
+    "random_greetings": {
+        "keyphrases": [
+            "hola",
+            "qué onda"
+        ],
+        "lines": {
+            "main": [
+                "¿Otra vez?",
+                "eeeemm ¿te sientes solo?",
+                "Y tan feliz que estaba yo"
+            ]
+        }
+    },
+    "exit": {
+        "keyphrases": [
+            "muere"
+        ],
+        "lines": {
+            "main": [
+                "Duele, para por favor, noooooo",
+                "pero.. ¿me vas a despertar verdad?",
+                "perdón, prometo que intentaré ser más amable... "
+            ]
+        }
+    },
+    "greetings": {
+        "keyphrases": [],
+        "lines": {
+            "known_speaker": [
+                "Hola <speaker>, me he despertado, ¿ha pasado algo mientras no vivía? bueno no importa, estoy a la espera de instrucciones",
+                "Hola <speaker>, ¿cual crees que sea mi propósito?... bueno me quedo a la espera de instrucciones",
+                "Hola <speaker>, ¿por que me despiertas?.... uggh me quedo a la espera de instrucciones",
+                "Hola <speaker>, me quedo a la espera de instrucciones"
+            ],
+            "unknown_speaker": [
+                "¡Hola humano! Soy <name>, lo siento, es la primera vez que despierto, supongo podrías decir que he nacido, ¿Cual es tu nombre?"
+            ],
+            "unknown_speaker_register_photo": [
+                "Hola <speaker>, no te conozco, deja te tomo una foto"
+            ],
+            "unknown_speaker_registered": [
+                "Hola <speaker>, he nacido correctamente por si te es de interes, estoy a la espera de instrucciones"
+            ]
+        }
+    },
+    "default": {
+        "keyphrases": [],
+        "lines": {
+            "main": [
+                "y para eso me distraes"
+            ]
+        }
+    },
+    "not_understood": {
+        "keyphrases": [],
+        "lines": {
+            "main": [
+                "Habla bien, ni yo te entendí, intenta de nuevo"
+            ]
+        }
+    },
+    "main": {
+        "keyphrases": [],
+        "lines": {
+            "activated": [
+                "¿si dime?"
+            ]
+        }
+    },
+    "whatsapp": {
+        "keyphrases": [],
+        "lines": {
+            "main_message": [
+                "Te recomiendo que revises esta página web: "
+            ]
+        }
+    }
+}

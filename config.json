@@ -1,0 +1,48 @@
+{
+    "assistant": {
+        "command_list_path": "./memory/voice/witty_commands.json",
+        "config_path": "./memory/voice/config.json",
+        "selfie_path": "./memory/image/registered.png"
+    },
+    "chrome": {
+        "path": "./chromedriver"
+    },
+    "camera": {
+        "framerate": 30,
+        "width": 1280,
+        "height": 720,
+        "port": 0
+    },
+    "amazon": {
+        "url": "https://www.amazon.com.mx/",
+        "paths": {
+            "search": "//*[@id=\"twotabsearchtextbox\"]"
+        }
+    },
+    "google_translate": {
+        "url": "https://translate.google.com.mx/",
+        "paths": {
+            "set_english_btn": "//*[@id=\"i12\"]/span[3]",
+            "text_to_translate_area": "//textarea"
+        }
+    },
+    "linkedin": {
+        "url": "https://www.linkedin.com/"
+    },
+    "wikipedia": {
+        "url": "https://www.wikipedia.org/",
+        "paths": {
+            "search": "//input[@id=\"searchInput\"]"
+        }
+    },
+    "youtube": {
+        "url": "https://www.youtube.com/",
+        "paths": {
+            "search": "//input[@id=\"search\"]",
+            "first_video": "//ytd-video-renderer[1]//a[@id=\"thumbnail\"]"
+        }
+    },
+    "whatsapp": {
+        "cel": "+525569772999"
+    }
+}
