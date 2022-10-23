@@ -1,5 +1,5 @@
 # asistente
-un asistente de voz con mucha personalidad
+un asistente de voz con mucha personalidad creado por Eric Saúl López Barragán
 
 Los requisitos únicos requisitos que se necesitan son los siguientes:
 - python versión 3.7
